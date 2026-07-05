@@ -20,5 +20,5 @@ public class string1 {
 
     }
     
-}
+}//hii
 
